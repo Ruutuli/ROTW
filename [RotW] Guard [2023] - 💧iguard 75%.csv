@@ -1,0 +1,40 @@
+Roll,Item
+25,You do not encounter any monsters.
+6,"You encountered a Blue Bokoblin!
+/tableroll bokoblin to continue"
+5,"You encountered a Bokoblin!
+/tableroll bokoblin to continue"
+5,"You encountered a Ice Chuchu (Medium)!
+/tableroll chuchumedium to continue"
+5,"You encountered a Chuchu (Medium)!
+/tableroll chuchumedium to continue"
+5,"You encountered a Ice Chuchu (Small)!
+/tableroll chuchusmall to continue"
+5,"You encountered a Chuchu (Small)!
+/tableroll chuchusmall to continue"
+5,"You encountered a Ice Keese!
+/tableroll keese to continue"
+5,"You encountered a Keese!
+/tableroll keese to continue"
+5,"You encountered a Lizalfos!
+/tableroll lizalfos to continue"
+5,"You encountered a Stalizalfos!
+/tableroll stals to continue"
+4,"You encountered a Stalkoblin!
+/tableroll stals to continue"
+4,"You encountered a Stalmoblin!
+/tableroll stals to continue"
+4,"You encountered a Black Bokoblin!
+/tableroll blackbokoblin to continue"
+3,"You encountered a Blue Moblin!
+/tableroll bluemoblin to continue"
+3,"You encountered a Moblin!
+/tableroll moblin to continue"
+3,"You encountered a Silver Bokoblin! This foe looks pretty dangerous...
+/tableroll silverbokoblin to continue"
+1,"You encountered a Black Moblin! This foe looks pretty dangerous...
+/tableroll blackmoblin to continue"
+1,"You encountered a Golden Bokoblin! This foe looks pretty dangerous...
+/tableroll goldenbokoblin to continue"
+1,"You encountered a Silver Lizalfos! This foe looks pretty dangerous...
+/tableroll silverlizalfos to continue"

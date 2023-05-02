@@ -1,0 +1,26 @@
+Roll,Item
+25,You do not encounter any monsters.
+8,"You encountered a Blue Bokoblin!
+/tableroll bokoblin to continue"
+7,"You encountered a Bokoblin!
+/tableroll bokoblin to continue"
+7,"You encountered a Electric Chuchu (Large)!
+/tableroll chuchularge to continue"
+7,"You encountered a Electric Chuchu (Medium)!
+/tableroll chuchumedium to continue"
+7,"You encountered a Electric Chuchu (Small)!
+/tableroll chuchusmall to continue"
+7,"You encountered a Chuchu (Small)!
+/tableroll chuchusmall to continue"
+7,"You encountered a Electric Keese!
+/tableroll keese to continue"
+7,"You encountered a Keese!
+/tableroll keese to continue"
+6,"You encountered a Forest Octorok!
+/tableroll forestoctorok to continue"
+6,"You encountered a Moblin!
+/tableroll moblin to continue"
+5,"You encountered a Black Lizalfos! This foe looks pretty dangerous...
+/tableroll blacklizalfos to continue"
+1,"You encountered a Electric Wizzrobe! This foe looks pretty dangerous...
+/tableroll electricwizzrobe to continue"

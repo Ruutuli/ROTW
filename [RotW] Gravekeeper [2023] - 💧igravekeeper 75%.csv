@@ -1,0 +1,36 @@
+Roll,Item
+25,You do not encounter any monsters.
+5,"You encountered a Blue Bokoblin!
+/tableroll bokoblin to continue"
+5,"You encountered a Cursed Bokoblin! Its ghostly disembodied skull floats through the air with malice in its eyes...
+/tableroll cursedskull to continue"
+5,"You encountered a Bokoblin!
+/tableroll bokoblin to continue"
+5,"You encountered a Chuchu (Large)!
+/tableroll chuchularge to continue"
+5,"You encountered a Chuchu (Medium)!
+/tableroll chuchumedium to continue"
+5,"You encountered a Ice Chuchu (Small)!
+/tableroll chuchusmall to continue"
+5,"You encountered a Chuchu (Small)!
+/tableroll chuchusmall to continue"
+4,"You encountered a Ice Keese!
+/tableroll keese to continue"
+4,"You encountered a Keese!
+/tableroll keese to continue"
+4,"You encountered a Cursed Lizalfos! Its ghostly disembodied skull floats through the air with malice in its eyes...
+/tableroll cursedskull to continue"
+4,"You encountered a Cursed Moblin! Its ghostly disembodied skull floats through the air with malice in its eyes...
+/tableroll cursedskull to continue"
+4,"You encountered a Frost Pebblit!
+/tableroll frostpebblit to continue"
+4,"You encountered a Stone Pebblit!
+/tableroll stonepebblit to continue"
+4,"You encountered a Stalizalfos!
+/tableroll stals to continue"
+4,"You encountered a Stalkoblin!
+/tableroll stals to continue"
+4,"You encountered a Stalmoblin!
+/tableroll stals to continue"
+4,"You encountered a Ice Wizzrobe! This foe looks pretty dangerous...
+/tableroll icewizzrobe to continue"
